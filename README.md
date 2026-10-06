@@ -15,7 +15,7 @@ Use `scoop install devcade/devcade` to select this bucket explicitly.
 Update: `scoop update` then `scoop update devcade`.
 Remove: `scoop uninstall devcade`. Player settings and scores are retained.
 
-Current package: 1.0.0-rc.3. Supports x64 and ARM64 Windows.
+Current package: 1.0.0-rc.4. Supports x64 and ARM64 Windows.
 Use Windows Terminal or another VT-compatible interactive console, at least 80 x 24.
 
 [Game repository](https://github.com/cagridursun/devcade) ·
